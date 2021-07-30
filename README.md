@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently stadying.
+- 🔭 I’m currently studying.
 - 🌱 I’m currently learning Python, HTML and CSS.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
