@@ -1,3 +1,5 @@
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/hiro3pc/posts.svg)](http://qiita.com/hiro3pc)
 ### Hi there 👋
 
 - 🔭 I’m currently studying.
