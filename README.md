@@ -1,7 +1,7 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hiro3pc/posts.svg)](http://qiita.com/hiro3pc)
 ![Twitter follower](https://img.shields.io/twitter/follow/hiro3pc?style=social)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiro3pc&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiro3pc&show_icons=true&count_private=true&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there 👋
 
