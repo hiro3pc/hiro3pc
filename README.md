@@ -2,7 +2,7 @@
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hiro3pc/posts.svg)](http://qiita.com/hiro3pc)
 [![My Twitter follower]https://img.shields.io/twitter/follow/hiro3pc?style=social
 [![My GitHub repo]
-[！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？username = anuraghazra）]（https://github.com/anuraghazra/github-readme-stats）
+[！[AnuragのGitHub統計]（https://github-readme-stats.vercel.app/api？username = hiro3pc）]（https://github.com/anuraghazra/github-readme-stats）
 ### Hi there 👋
 
 - 🔭 I’m currently studying.
