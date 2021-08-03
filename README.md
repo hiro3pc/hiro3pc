@@ -1,4 +1,3 @@
-# My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hiro3pc/posts.svg)](http://qiita.com/hiro3pc)
 ![Twitter follower](https://img.shields.io/twitter/follow/hiro3pc?style=social)
 
